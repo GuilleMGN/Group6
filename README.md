@@ -1,8 +1,9 @@
-# Group6
+# Portfolio vs Inflation Analysis
 
 ## Description
 This project will focus on Portfolio and Inflation Analysis. We will be focusing on 3 common popular portfolios with similar ETFs. ETFs are a popular investment option for various asset classes such as Equity and Bonds. They also play an important role in the portfolio of different types of investors – Growth, Moderate & Conservative. We will measure how ETFs have really performed and, given the rising rate of inflation, how you can prepare your portfolio for this shift?
 
+---
 ## Table of Contents
 * [Description](#description)
 * [Goals](#goals)
@@ -17,7 +18,7 @@ This project will focus on Portfolio and Inflation Analysis. We will be focusing
 * [References and Resources](#references-and-resources)
 * [License](#license)
 
-
+---
 ## Goals
 Our goal is to answer these 4 questions: 
 
@@ -40,7 +41,11 @@ Our portfolio analysis will use the following technologies:
 * matplotlib
 * bokeh
 * World Bank API 
-* Google Finance
+* Google Finance 
+
+---
+[![forthebadge made-with-python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/) </br>
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) </br>
 
 ## Asset Types ETFs
 * VTSMX Vanguard Total Stock Market Idx Inv (US Stock Market)
@@ -56,21 +61,34 @@ Our portfolio analysis will use the following technologies:
 * <b>Moderate Portfolio</b>: 32% US Bond Market, 8% Global Bonds, 21% Global Stock Market, 39% US Stock Market. <br />
 ![pie_moderate](Images/pie_moderate.png) 
 
+
 ## Performance
-![cumulative_returns](Images/cumulative_returns.png) 
-![volatility](Images/volatility.png) 
+![cumulative_returns](Images/cumulative_returns.png) <br />
+Growth Portfolio shows the highest cumulative return percentage over the past 10 years (2012 - 2021), followed by the Moderate and Conservative Portfolios. <br />
+
+---
+![volatility](Images/volatility.png) <br />
+Above graph outlines the the annualized standard deviation over the past 10 years (2012-2021). The Growth Portfolio has the highest volatility index. <br />
 
 ## Inflation
-![inflation](Images/inflation.png) 
-![correlation](Images/correlation.png) 
+### Monthly Inflation trend over the past 10 years
+![inflation](Images/inflation.png) <br />
+Above graph outlines the monthly inflation over the past 10 years. As we see, there has been a drastic increase in 2021. <br />
+
+---
+![correlation](Images/correlation.png) <br />
+Above graph outlines the correlation between the monthly portfolio returns and monthly inflation. 
+
 
 ## 2021 Returns and Inflation Trends
-![inflation_returns_2021](Images/inflation_returns_2021.png) 
+### Portfolio Returns and Monthly Inflation trend for 2021
+![inflation_returns_2021](Images/inflation_returns_2021.png) <br />
 
 ## Conclusion
 In conclusion, inflation does play an important role in determining the real returns of a portfolio and investors must consider the impact of inflation especially given the current trend
 where US inflation has touched the highest level in 39 years. The greatest increase being between 2020 and 2021 where it went from 1.2% to 6.8% . In our analysis we reviewed the monthly inflation impact over monthly returns of each type of Portfolio i.e Growth, Moderate and Conservative. We also reviewed the co-relation of the monthly returns to monthly inflation trends. We conclude that the Growth Portfolio is best suited to protect investors under high inflation scenarios. Investors will need to decrease exposure to bond or fixed income assets.
 
+---
 ### How do conservative, moderate & growth portfolios compare?
 Growth Portfolio shows the highest cumulative return percentage over the past 10 years (2012 - 2021), followed by the Moderate and Conservative Portfolios. 
 ### Which asset classes will do well?
@@ -85,6 +103,8 @@ Investors in Growth Portfolio will need to review their equity investments and w
 Investors in Moderate and Conservative Portfolio should look at rebalancing their portfolio by shifting some of their fixed income assets to higher return investments to beat the impact of inflation. <br />
 Our study is limited to ETFs and may vary with other asset classes such as real estate, crypto and gold. <br />
 Also the inflation rate varies across countries. So it is important to review the inflation rate of the country you are investing in. <br />
+
+---
 ![world_inflation_trend](Images/world_inflation_trend.png) 
 
 ## Contributors
@@ -97,6 +117,7 @@ Our team:
 
 <h2><a href="https://github.com/RiteshChugani"><img src="https://avatars.githubusercontent.com/u/93497343?s=60&" /> RiteshChugani</a></h2>
 
+---
 ## References and Resources
 [InvestOPedia.com](https://www.investopedia.com/consumer-price-inflation-brisk-december-2021-5215608#:~:text=In%20December%202021%2C%20inflation%2C%20as,major%20contributors%20to%20overall%20inflation ) <br />
 [RateInflation.com](https://www.rateinflation.com/inflation-rate/usa-historical-inflation-rate/ ) <br />
