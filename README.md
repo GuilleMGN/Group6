@@ -95,14 +95,13 @@ Our team:
 
 <h2><a href="https://github.com/Prabhdyals"><img src="https://avatars.githubusercontent.com/u/93745962?s=60" /> Prabhdyals</a></h2>
 
-<h2><a href="https://github.com/RiteshChugani"><img src="https://avatars.githubusercontent.com/u/93497343?s=60&v=4" /> RiteshChugani</a></h2>
+<h2><a href="https://github.com/RiteshChugani"><img src="https://avatars.githubusercontent.com/u/93497343?s=60&" /> RiteshChugani</a></h2>
 
 ## References and Resources
 [InvestOPedia.com](https://www.investopedia.com/consumer-price-inflation-brisk-december-2021-5215608#:~:text=In%20December%202021%2C%20inflation%2C%20as,major%20contributors%20to%20overall%20inflation ) <br />
-[RateInflation.com](https://www.rateinflation.com/inflation-rate/usa-historical-inflation-rate/ )
-[USAToday.com](https://www.usatoday.com/story/money/2022/01/12/cpi-2021-consumer-prices-climbed-7-2021-fastest-pace-since-1982/9178235002/ )
-[PortfolioVisualizer.com](https://www.portfoliovisualizer.com/ )
-
+[RateInflation.com](https://www.rateinflation.com/inflation-rate/usa-historical-inflation-rate/ ) <br />
+[USAToday.com](https://www.usatoday.com/story/money/2022/01/12/cpi-2021-consumer-prices-climbed-7-2021-fastest-pace-since-1982/9178235002/ ) <br />
+[PortfolioVisualizer.com](https://www.portfoliovisualizer.com/ ) <br />
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
